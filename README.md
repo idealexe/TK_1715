@@ -1,6 +1,6 @@
 # Amberry
 
-[![Amberry]()](https://youtu.be/Du_0OMl3P_8)
+[![Amberry](https://github.com/jphacks/TK_1715/image/demo.gif)](https://youtu.be/Du_0OMl3P_8)
 
 ## 製品概要
 ### :notes: sound design Tech :notes:
