@@ -27,6 +27,7 @@
   参考文献：http://sonification.de/publications/media/Hermann2008-TAD.pdf
   
   センサー値を楽しめる形へ可聴化
+  
   演奏家が使えるような実用的プロフダクトの作成 
 　
 ### 製品説明（具体的な製品の説明）
