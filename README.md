@@ -3,7 +3,7 @@
 [![Product Name](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](https://www.youtube.com/channel/UC4PtjOfZTbVp9DwtJv82Lzg)
 
 ## 製品概要
-### sound design Tech
+### :notes: sound design Tech :notes:
 
 ### 背景
 - 背景
@@ -32,18 +32,19 @@
 　
 ### 製品説明（具体的な製品の説明）
 ### 特長
-#### 1. 特長1
+* 特長1
 音と関係ないデータを可聴化し音楽を自動で生成します
-
 コードのデータベースを作成し，マルコフ連鎖によってコードを遷移させる．  
 コードトーンを引数に取り，メロディやベースの音を追加することによって音楽が自動生成される．
-#### 2. 特長2
+
+* 特長2
 楽器として利用可能です  
 センサを用い環境にあったコード群の選択や音色の変化を行う．
-#### 3. 特長3
-心地よさを感じるサウンドメイキング
 
+* 特長3
+心地よさを感じるサウンドメイキング
 AIを用いて環境にコグニティブなサウンドメイキングを可能にする．
+
 ### 解決出来ること
 使用量が発生しないBGM
 
