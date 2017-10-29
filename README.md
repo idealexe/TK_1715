@@ -4,11 +4,13 @@
 
 ## 製品概要
 ### :notes: sound design Tech :notes:
+![Design](https://github.com/jphacks/TK_1715/blob/master/3dmodel/sonus_ark_2017-Oct-26_05-09-42PM-000_CustomizedView31457890165_png.png "デザイン")
+
 
 ### 背景とターゲット
 #### 背景
 
- 普段目に見えないデータを音に変換することで、これまでに聞いたことのない音色の変化や楽曲を自動生成したかった。
+ 普段目に見えないデータを音に変換することで、これまでに聞いたことのない音色の変化や楽曲を自動生成したい。
 
 　” That’s what I love about music.  
  One of the most banal scenes is suddenly invested… with so much meaning.”  はじまりのうた　
@@ -24,7 +26,7 @@
 
 *  現状と課題：
 
-  情報の可聴化の研究は存在するが、音楽として楽しめる形でアウトプットするものがない。
+  情報の可聴化の研究は存在するが、音楽として楽しめる形でアウトプットするものは，ほとんどない。
 
   参考文献：
  http://sonification.de/publications/media/Hermann2008-TAD.pdf
