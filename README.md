@@ -14,7 +14,8 @@
  One of the most banal scenes is suddenly invested… with so much meaning.”  はじまりのうた　
  
  
-- 着目した顧客・顧客の課題・現状  
+- 着目した顧客・顧客の課題・現状　　
+
   着目した顧客：
   
    1．音楽を演奏する人　楽器としての利用  
