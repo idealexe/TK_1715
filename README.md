@@ -1,6 +1,6 @@
-# Melody Maker
+# Amberry
 
-[![Product Name]()](https://www.youtube.com/watch?v=Du_0OMl3P_8&feature=youtu.be)
+[![Amberry]()](https://youtu.be/Du_0OMl3P_8)
 
 ## 製品概要
 ### :notes: sound design Tech :notes:
@@ -18,9 +18,9 @@
 
 *  着目した顧客：
 
-   * 音楽を演奏する人 → インタラクティブな新しい楽器としての利用
-   * 音楽を聴く人 → 環境に合わせたBGM
-   * 音楽の利用者 → ロイヤリティフリーなBGM素材として利用
+   - 音楽を演奏する人 → インタラクティブな新しい楽器としての利用
+   - 音楽を聴く人 → 環境に合わせたBGM
+   - 音楽の利用者 → ロイヤリティフリーなBGM素材として利用
 
 *  現状と課題：
 
