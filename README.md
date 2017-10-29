@@ -11,7 +11,9 @@
  普段目に見えないデータを音に変換することで、これまでに聞いたことのない音色の変化や楽曲を自動生成したかった．
 
 　” That’s what I love about music.  
- One of the most banal scenes is suddenly invested… with so much meaning.”  
+ One of the most banal scenes is suddenly invested… with so much meaning.”  はじまりのうた　
+ 
+ 
 - 着目した顧客・顧客の課題・現状  
   着目した顧客：
   
