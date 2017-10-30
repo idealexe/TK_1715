@@ -3,10 +3,10 @@
 [![Amberry](https://github.com/jphacks/TK_1715/blob/master/image/demo.gif)](https://youtu.be/Du_0OMl3P_8)
 
 ## 製品概要
-### :notes: Sound Design x Tech :notes:
+### :notes: Sound Design x Tech :notes: [サンプル音源](https://soundcloud.com/user-318142033/jphacks-2017-amberry-demo "サンプル音源")
 ![Design](https://github.com/jphacks/TK_1715/blob/master/3dmodel/sonus_ark_2017-Oct-26_05-09-42PM-000_CustomizedView31457890165_png.png "デザイン")
 
-[サンプル音源](https://soundcloud.com/user-318142033/jphacks-2017-amberry-demo "サンプル音源")
+
 
 ### 背景とターゲット
 #### 背景
