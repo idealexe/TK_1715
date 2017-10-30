@@ -6,6 +6,7 @@
 ### :notes: Sound Design x Tech :notes:
 ![Design](https://github.com/jphacks/TK_1715/blob/master/3dmodel/sonus_ark_2017-Oct-26_05-09-42PM-000_CustomizedView31457890165_png.png "デザイン")
 
+[サンプル音源](https://soundcloud.com/user-318142033/jphacks-2017-amberry-demo "サンプル音源")
 
 ### 背景とターゲット
 #### 背景
